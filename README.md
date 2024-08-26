@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### I'm taking my first steps as a Mobile Developer
+### I'm taking my first steps as a Developer
 <!-- - Technician in Systems Analysis and Development Student at the Universidade Internácional (Uninter) -->
 ## I’m currently learning
 
